@@ -37,7 +37,7 @@ export default class HomePage extends React.PureComponent { // eslint-disable-li
         <div className="home-page">
           <section className="centered">
             <h2>Start your next react project in seconds</h2>
-            <p>A minimal <i>React-Redux</i> search-application with all the best practices</p>
+            <p>A minimal <i>React</i> search-application with all the best practices</p>
           </section>
           <section>
             <h2>Try me!</h2>
